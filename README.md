@@ -14,3 +14,6 @@ A greeting message will be displayed along with the current day and the days lef
 - JavaScript
 - CSS (Bootstrap)
 
+
+
+![Alt Text](./public/images/example.gif)
