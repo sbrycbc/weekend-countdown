@@ -1,5 +1,6 @@
 function user() {
-    const name = document.getElementById("nameInput").value;
+    const nameInput = document.getElementById("nameInput");
+    const name = nameInput.value ? nameInput.value : "user";
     const currentDate = new Date();
     const currentDay = currentDate.getDay();
   
